@@ -15,6 +15,7 @@ Seeing as I'm stuck with the technical stuff, here's a content outline.
 * Open Source Hardware
 * Open Peer Review
 * Citizen Science
+* Open Licensing
 
 ##Why should you work openly?
 * Visual overview of the main reasons: https://www.jisc.ac.uk/sites/default/files/benefits-of-oa-new.jpg
