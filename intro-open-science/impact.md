@@ -21,16 +21,16 @@ Examples: altmetric.com
 ## Personal profiles to help with impact tracking and presentation
 
 * ORCID - Open Researcher and Contributor ID
-- a unique lifetime identifier for you as a researcher that you can carry with you when changing institutions
-- can be linked to other identfiers, research outputs and can help to quickly exchange information between systems
-- "master record of your publication list"
+\- a unique lifetime identifier for you as a researcher that you can carry with you when changing institutions
+\- can be linked to other identfiers, research outputs and can help to quickly exchange information between systems
+\- "master record of your publication list"
 
 * Impact story
-- collecting all the altmetrics for your publications (based on ORCID)
-- join for free with Twitter
+\- collecting all the altmetrics for your publications (based on ORCID)
+\- join for free with Twitter
 
 * Google Scholar
-- providing personal metrics based on your output indexed in Google Scholar (articles, theses, books, abstracts and court opinions, from academic publishers, professional societies, online repositories, universities and other web sites.)
-- creation of a profile needs a Google Account
-- public and private profiles
-- curated list of publications (and citation alerts based on them)
+\- providing personal metrics based on your output indexed in Google Scholar (articles, theses, books, abstracts and court opinions, from academic publishers, professional societies, online repositories, universities and other web sites.)
+\- creation of a profile needs a Google Account
+\- public and private profiles
+\- curated list of publications (and citation alerts based on them)
