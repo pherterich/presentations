@@ -9,6 +9,10 @@ Another option is to use authorea (https://www.authorea.com) where you can choos
 * LaTeX
 * MarkDown
 
+All services can be used with
+
 
 | Authorea | Overleaf | ShareLaTeX
 --- | ------ | -------- | -----
+Free version |  One project | up to 1 gb storage & 60 projects | one collaborator
+GitHub integration | yes | yes (beta) | not in the free version
